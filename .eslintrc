@@ -1,0 +1,6 @@
+{
+  "extends": "./lib/defaults.js",
+  "env": {
+    "node": true
+  }
+}
