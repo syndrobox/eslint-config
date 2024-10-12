@@ -1,5 +1,5 @@
 {
-  "name": "@syndrobox/eslint-config-syndrobox",
+  "name": "eslint-config-syndrobox",
   "version": "6.2.3",
   "description": "Eslint config for Syndrobox projects",
   "main": "index.js",
